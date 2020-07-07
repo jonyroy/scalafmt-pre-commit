@@ -1,0 +1,1 @@
+# scalafmt-pre-commit
